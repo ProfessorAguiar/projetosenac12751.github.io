@@ -149,7 +149,7 @@ section{
           
           .name {
             margin-bottom: 50px;
-            font-size: 35px;
+            font-size: 20px;
           }
 
           @keyframes credits {
@@ -169,4 +169,9 @@ section{
             position: fixed;
             top: 0;
             width: 100%;
+          }
+          .sun{
+             
+            position: relative;
+            left: 650px;
           }
